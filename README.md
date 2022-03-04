@@ -28,3 +28,6 @@ At list, we  query the galaxies collected in the [GLADE](https://vizier.u-strasb
 The value reported in the header of GW170817 published in GWTC-1 GW170814_skymap.fits.gz.
 
 <img width="837" alt="Schermata 2022-03-04 alle 11 40 19" src="https://user-images.githubusercontent.com/91550119/156749946-a7b1cc1b-7fd3-427c-912e-2ba56bc480ea.png">
+
+
+For any question, send email to \url[marialisa.brozzetti@studenti.unipg.it]
